@@ -2,8 +2,6 @@
 
 # 🧮 BMI Calculator
 
-<img src="image.png" alt="BMI Calculator Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
 **A lightweight, user-friendly web application to calculate BMI and generate a downloadable health report.**
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -16,7 +14,7 @@
 [**Installation**](#-quick-start) •
 [**Screenshots**](#-screenshots) •
 [**Project Structure**](#-project-structure)
-
+<img src="image.png" alt="BMI Calculator Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
