@@ -2,7 +2,7 @@
 
 # 🧮 BMI Calculator
 
-<img src="ScreenShots/BMI%20Calculator.png" alt="BMI Calculator Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="image.png" alt="BMI Calculator Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 **A lightweight, user-friendly web application to calculate BMI and generate a downloadable health report.**
 
