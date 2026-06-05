@@ -10,9 +10,9 @@
 [![Frontend](https://img.shields.io/badge/HTML5%20|%20CSS3%20|%20JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 
 <!--[**🌐 Live Server**](#) •-->
+<!--[**Screenshots**](#-screenshots) •-->
 [**Explore Features**](#-features) •
 [**Installation**](#-quick-start) •
-<!--[**Screenshots**](#-screenshots) •-->
 [**Project Structure**](#-project-structure)
 <img src="image.png" alt="BMI Calculator Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
